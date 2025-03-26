@@ -5,6 +5,6 @@ The goal of this project is to train a CNN-based network (Faster R-CNN) for obje
 The detection categories are limited to: Vehicle, Bicycle and Pedestrian.
 
 Trained network detection results video:
-<a href="[https://www.youtube.com/watch?v=Fo1N7kAt3Ng](https://youtube.com/shorts/ImsJWr9tCXg)">
+<a href="https://youtube.com/shorts/ImsJWr9tCXg">
   <img src="media/play.jpg" alt="Results" style="width: 800px;">
 </a>
